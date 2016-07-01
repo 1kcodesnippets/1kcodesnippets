@@ -1,3 +1,7 @@
+---
+layout: index
+---
+
 # 1kcodesnippets.github.io
 
 ## \#0. why am I doing this?
